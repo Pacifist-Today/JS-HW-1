@@ -38,14 +38,14 @@ calcSub(a,b);
 calcmul(a,b);
 calcdiv(a,b);
 
+
 //Task #1
 
-let name = 'John';
+let firstName = 'John';
 
-let admin = name;
+let admin = firstName;
 
 alert(admin); // будет John
-
 
 
 //Task #2
@@ -56,14 +56,13 @@ alert(admin); // будет John
 // 2) user, customer, guest
 
 
-
 //Task #3
 
-let ab = '10';
+let first = '10';
 
-let cd = 10;
+let second = 10;
 
-let result = a + b;
+let result = first + second;
 
 console.log(result); // result = "1010"
 
